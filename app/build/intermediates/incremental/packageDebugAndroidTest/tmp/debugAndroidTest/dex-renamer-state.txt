@@ -1,0 +1,7 @@
+#Sat May 25 18:32:44 CDT 2019
+base.0=/Users/angel.vargas/Documents/Android_Studio_Projects/My-Resume/app/build/intermediates/transforms/dexMerger/androidTest/debug/1
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=/Users/angel.vargas/Documents/Android_Studio_Projects/My-Resume/app/build/intermediates/transforms/dexMerger/androidTest/debug/0

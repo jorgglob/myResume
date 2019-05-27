@@ -1,0 +1,226 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/angel.vargas/Documents/Android_Studio_Projects/My-Resume/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/angel.vargas/Documents/Android_Studio_Projects/My-Resume/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/angel.vargas/Documents/Android_Studio_Projects/My-Resume/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/angel.vargas/Documents/Android_Studio_Projects/My-Resume/app/src/main/AndroidManifest.xml:2:1-25:12
+MERGED from [:data] /Users/angel.vargas/Documents/Android_Studio_Projects/My-Resume/data/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [io.realm:realm-android-library:4.1.1] /Users/angel.vargas/.gradle/caches/transforms-1/files-1.1/realm-android-library-4.1.1.aar/ef4385be66a4b84309e3b87fa9d51490/AndroidManifest.xml:2:1-11:12
+MERGED from [:domain] /Users/angel.vargas/Documents/Android_Studio_Projects/My-Resume/domain/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [io.card:android-sdk:5.5.1] /Users/angel.vargas/.gradle/caches/transforms-1/files-1.1/android-sdk-5.5.1.aar/e46b9e915eb51da30db86c147afa9826/AndroidManifest.xml:2:1-26:12
+MERGED from [com.facebook.stetho:stetho-okhttp3:1.5.1] /Users/angel.vargas/.gradle/caches/transforms-1/files-1.1/stetho-okhttp3-1.5.1.aar/09a606c3a54acfe5ad0575daa262222a/AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.stetho:stetho:1.5.1] /Users/angel.vargas/.gradle/caches/transforms-1/files-1.1/stetho-1.5.1.aar/721437924334d763578af4615b286cf0/AndroidManifest.xml:2:1-13:12
+MERGED from [com.airbnb.android:lottie:2.7.0] /Users/angel.vargas/.gradle/caches/transforms-1/files-1.1/lottie-2.7.0.aar/1071624561c4adbcdb3eea310226c0a4/AndroidManifest.xml:2:1-13:12
+MERGED from [de.hdodenhof:circleimageview:3.0.0] /Users/angel.vargas/.gradle/caches/transforms-1/files-1.1/circleimageview-3.0.0.aar/def3cc49e0101d2a95211ddd5ae389d1/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:design:27.1.1] /Users/angel.vargas/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/b93c07953dfa4331210faf58ad1d8267/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.1.1] /Users/angel.vargas/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/90a00631d8002f255d8b61ca9aabed78/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/angel.vargas/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/ebb78713c528d58ab9ee1decbc2280df/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.dagger:dagger-android-support:2.17] /Users/angel.vargas/.gradle/caches/transforms-1/files-1.1/dagger-android-support-2.17.aar/0dc2caa0b0bd27bc8227bb87e8e34897/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/angel.vargas/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/f81610f83cad2246523e18f12e1766ea/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /Users/angel.vargas/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/65591301a6a53b5cbd44f0769b2463f3/AndroidManifest.xml:17:1-30:12
+MERGED from [com.android.support:support-v4:27.1.1] /Users/angel.vargas/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/cad96f526bfeb84d3b52e96e2bc6bffb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/angel.vargas/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/5c8df545f4f36d63ccdb25529127def6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] /Users/angel.vargas/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/da22f6fcafe13d49cdabe15f8d4f516d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/angel.vargas/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/42db2a00e4ef26c4548c1a505671ea69/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/angel.vargas/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/65d43c14e0c0f041a247b76d1786f51a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/angel.vargas/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/559f335685f0c7a822807056a41fadf3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/angel.vargas/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/ec99e5b950c988f1b7ae08f3f2a560a8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/angel.vargas/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/3d0735556187c360a204bdd6f6d6621d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/angel.vargas/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/7045d14d4526f69369777d820c18ffbf/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/angel.vargas/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/68e52274cdc0ed76ce317b9b8f35955d/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/angel.vargas/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/eb4abb4b1ee01d42f131edfc16312749/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.dagger:dagger-android:2.17] /Users/angel.vargas/.gradle/caches/transforms-1/files-1.1/dagger-android-2.17.aar/1399c5e96b5e9ee57f23f409bdcb13a5/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/angel.vargas/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/7954c595036e1323d9bf705e7fd1caf9/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/angel.vargas/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/657fd59fa1fda0c241292024ddd40ff0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/angel.vargas/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/70d864b821c662fa18a6c183558957b6/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/angel.vargas/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/e579fec9e091b2991898bd04a05950a5/AndroidManifest.xml:17:1-22:12
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.0] /Users/angel.vargas/.gradle/caches/transforms-1/files-1.1/rxandroid-2.1.0.aar/9f4de014558b866d9dcd0fb61036b155/AndroidManifest.xml:15:1-20:12
+MERGED from [com.android.support.test.espresso:espresso-idling-resource:3.0.2] /Users/angel.vargas/.gradle/caches/transforms-1/files-1.1/espresso-idling-resource-3.0.2.aar/43e6bfc2166b3cf3a2f00be0646d9553/AndroidManifest.xml:17:1-24:12
+MERGED from [com.getkeepsafe.relinker:relinker:1.2.2] /Users/angel.vargas/.gradle/caches/transforms-1/files-1.1/relinker-1.2.2.aar/dc697c1ca89b09f3ee604b8966ba9ea8/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/angel.vargas/Documents/Android_Studio_Projects/My-Resume/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/angel.vargas/Documents/Android_Studio_Projects/My-Resume/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/angel.vargas/Documents/Android_Studio_Projects/My-Resume/app/src/main/AndroidManifest.xml:2:1-25:12
+	package
+		ADDED from /Users/angel.vargas/Documents/Android_Studio_Projects/My-Resume/app/src/main/AndroidManifest.xml:3:11-41
+		INJECTED from /Users/angel.vargas/Documents/Android_Studio_Projects/My-Resume/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/angel.vargas/Documents/Android_Studio_Projects/My-Resume/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/angel.vargas/Documents/Android_Studio_Projects/My-Resume/app/src/main/AndroidManifest.xml
+		ADDED from /Users/angel.vargas/Documents/Android_Studio_Projects/My-Resume/app/src/main/AndroidManifest.xml:2:1-25:12
+		INJECTED from /Users/angel.vargas/Documents/Android_Studio_Projects/My-Resume/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/angel.vargas/Documents/Android_Studio_Projects/My-Resume/app/src/main/AndroidManifest.xml
+		ADDED from /Users/angel.vargas/Documents/Android_Studio_Projects/My-Resume/app/src/main/AndroidManifest.xml:2:1-25:12
+		INJECTED from /Users/angel.vargas/Documents/Android_Studio_Projects/My-Resume/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/angel.vargas/Documents/Android_Studio_Projects/My-Resume/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/angel.vargas/Documents/Android_Studio_Projects/My-Resume/app/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /Users/angel.vargas/Documents/Android_Studio_Projects/My-Resume/app/src/main/AndroidManifest.xml:5:22-64
+application
+ADDED from /Users/angel.vargas/Documents/Android_Studio_Projects/My-Resume/app/src/main/AndroidManifest.xml:7:5-23:19
+MERGED from [io.card:android-sdk:5.5.1] /Users/angel.vargas/.gradle/caches/transforms-1/files-1.1/android-sdk-5.5.1.aar/e46b9e915eb51da30db86c147afa9826/AndroidManifest.xml:19:5-24:19
+MERGED from [io.card:android-sdk:5.5.1] /Users/angel.vargas/.gradle/caches/transforms-1/files-1.1/android-sdk-5.5.1.aar/e46b9e915eb51da30db86c147afa9826/AndroidManifest.xml:19:5-24:19
+MERGED from [com.facebook.stetho:stetho-okhttp3:1.5.1] /Users/angel.vargas/.gradle/caches/transforms-1/files-1.1/stetho-okhttp3-1.5.1.aar/09a606c3a54acfe5ad0575daa262222a/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.stetho:stetho-okhttp3:1.5.1] /Users/angel.vargas/.gradle/caches/transforms-1/files-1.1/stetho-okhttp3-1.5.1.aar/09a606c3a54acfe5ad0575daa262222a/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.stetho:stetho:1.5.1] /Users/angel.vargas/.gradle/caches/transforms-1/files-1.1/stetho-1.5.1.aar/721437924334d763578af4615b286cf0/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.stetho:stetho:1.5.1] /Users/angel.vargas/.gradle/caches/transforms-1/files-1.1/stetho-1.5.1.aar/721437924334d763578af4615b286cf0/AndroidManifest.xml:11:5-20
+MERGED from [com.airbnb.android:lottie:2.7.0] /Users/angel.vargas/.gradle/caches/transforms-1/files-1.1/lottie-2.7.0.aar/1071624561c4adbcdb3eea310226c0a4/AndroidManifest.xml:11:5-20
+MERGED from [com.airbnb.android:lottie:2.7.0] /Users/angel.vargas/.gradle/caches/transforms-1/files-1.1/lottie-2.7.0.aar/1071624561c4adbcdb3eea310226c0a4/AndroidManifest.xml:11:5-20
+MERGED from [de.hdodenhof:circleimageview:3.0.0] /Users/angel.vargas/.gradle/caches/transforms-1/files-1.1/circleimageview-3.0.0.aar/def3cc49e0101d2a95211ddd5ae389d1/AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:3.0.0] /Users/angel.vargas/.gradle/caches/transforms-1/files-1.1/circleimageview-3.0.0.aar/def3cc49e0101d2a95211ddd5ae389d1/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/angel.vargas/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/ebb78713c528d58ab9ee1decbc2280df/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/angel.vargas/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/ebb78713c528d58ab9ee1decbc2280df/AndroidManifest.xml:9:5-20
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /Users/angel.vargas/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/65591301a6a53b5cbd44f0769b2463f3/AndroidManifest.xml:22:5-28:19
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /Users/angel.vargas/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/65591301a6a53b5cbd44f0769b2463f3/AndroidManifest.xml:22:5-28:19
+	android:supportsRtl
+		ADDED from /Users/angel.vargas/Documents/Android_Studio_Projects/My-Resume/app/src/main/AndroidManifest.xml:13:13-39
+	android:label
+		ADDED from /Users/angel.vargas/Documents/Android_Studio_Projects/My-Resume/app/src/main/AndroidManifest.xml:11:13-45
+	android:roundIcon
+		ADDED from /Users/angel.vargas/Documents/Android_Studio_Projects/My-Resume/app/src/main/AndroidManifest.xml:12:13-58
+	android:icon
+		ADDED from /Users/angel.vargas/Documents/Android_Studio_Projects/My-Resume/app/src/main/AndroidManifest.xml:10:13-47
+	android:allowBackup
+		ADDED from /Users/angel.vargas/Documents/Android_Studio_Projects/My-Resume/app/src/main/AndroidManifest.xml:8:13-39
+	android:theme
+		ADDED from /Users/angel.vargas/Documents/Android_Studio_Projects/My-Resume/app/src/main/AndroidManifest.xml:14:13-44
+	android:name
+		ADDED from /Users/angel.vargas/Documents/Android_Studio_Projects/My-Resume/app/src/main/AndroidManifest.xml:9:13-66
+activity#com.example.myresume.view.ResumeActivity
+ADDED from /Users/angel.vargas/Documents/Android_Studio_Projects/My-Resume/app/src/main/AndroidManifest.xml:15:9-22:20
+	android:screenOrientation
+		ADDED from /Users/angel.vargas/Documents/Android_Studio_Projects/My-Resume/app/src/main/AndroidManifest.xml:16:19-55
+	android:name
+		ADDED from /Users/angel.vargas/Documents/Android_Studio_Projects/My-Resume/app/src/main/AndroidManifest.xml:15:19-74
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/angel.vargas/Documents/Android_Studio_Projects/My-Resume/app/src/main/AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from /Users/angel.vargas/Documents/Android_Studio_Projects/My-Resume/app/src/main/AndroidManifest.xml:18:17-68
+	android:name
+		ADDED from /Users/angel.vargas/Documents/Android_Studio_Projects/My-Resume/app/src/main/AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/angel.vargas/Documents/Android_Studio_Projects/My-Resume/app/src/main/AndroidManifest.xml:20:17-76
+	android:name
+		ADDED from /Users/angel.vargas/Documents/Android_Studio_Projects/My-Resume/app/src/main/AndroidManifest.xml:20:27-74
+uses-sdk
+INJECTED from /Users/angel.vargas/Documents/Android_Studio_Projects/My-Resume/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/angel.vargas/Documents/Android_Studio_Projects/My-Resume/app/src/main/AndroidManifest.xml
+INJECTED from /Users/angel.vargas/Documents/Android_Studio_Projects/My-Resume/app/src/main/AndroidManifest.xml
+MERGED from [:data] /Users/angel.vargas/Documents/Android_Studio_Projects/My-Resume/data/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:data] /Users/angel.vargas/Documents/Android_Studio_Projects/My-Resume/data/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [io.realm:realm-android-library:4.1.1] /Users/angel.vargas/.gradle/caches/transforms-1/files-1.1/realm-android-library-4.1.1.aar/ef4385be66a4b84309e3b87fa9d51490/AndroidManifest.xml:7:5-9:41
+MERGED from [io.realm:realm-android-library:4.1.1] /Users/angel.vargas/.gradle/caches/transforms-1/files-1.1/realm-android-library-4.1.1.aar/ef4385be66a4b84309e3b87fa9d51490/AndroidManifest.xml:7:5-9:41
+MERGED from [:domain] /Users/angel.vargas/Documents/Android_Studio_Projects/My-Resume/domain/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:domain] /Users/angel.vargas/Documents/Android_Studio_Projects/My-Resume/domain/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [io.card:android-sdk:5.5.1] /Users/angel.vargas/.gradle/caches/transforms-1/files-1.1/android-sdk-5.5.1.aar/e46b9e915eb51da30db86c147afa9826/AndroidManifest.xml:5:5-7:41
+MERGED from [io.card:android-sdk:5.5.1] /Users/angel.vargas/.gradle/caches/transforms-1/files-1.1/android-sdk-5.5.1.aar/e46b9e915eb51da30db86c147afa9826/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.stetho:stetho-okhttp3:1.5.1] /Users/angel.vargas/.gradle/caches/transforms-1/files-1.1/stetho-okhttp3-1.5.1.aar/09a606c3a54acfe5ad0575daa262222a/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.stetho:stetho-okhttp3:1.5.1] /Users/angel.vargas/.gradle/caches/transforms-1/files-1.1/stetho-okhttp3-1.5.1.aar/09a606c3a54acfe5ad0575daa262222a/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.stetho:stetho:1.5.1] /Users/angel.vargas/.gradle/caches/transforms-1/files-1.1/stetho-1.5.1.aar/721437924334d763578af4615b286cf0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.stetho:stetho:1.5.1] /Users/angel.vargas/.gradle/caches/transforms-1/files-1.1/stetho-1.5.1.aar/721437924334d763578af4615b286cf0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.airbnb.android:lottie:2.7.0] /Users/angel.vargas/.gradle/caches/transforms-1/files-1.1/lottie-2.7.0.aar/1071624561c4adbcdb3eea310226c0a4/AndroidManifest.xml:7:5-9:41
+MERGED from [com.airbnb.android:lottie:2.7.0] /Users/angel.vargas/.gradle/caches/transforms-1/files-1.1/lottie-2.7.0.aar/1071624561c4adbcdb3eea310226c0a4/AndroidManifest.xml:7:5-9:41
+MERGED from [de.hdodenhof:circleimageview:3.0.0] /Users/angel.vargas/.gradle/caches/transforms-1/files-1.1/circleimageview-3.0.0.aar/def3cc49e0101d2a95211ddd5ae389d1/AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:3.0.0] /Users/angel.vargas/.gradle/caches/transforms-1/files-1.1/circleimageview-3.0.0.aar/def3cc49e0101d2a95211ddd5ae389d1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:27.1.1] /Users/angel.vargas/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/b93c07953dfa4331210faf58ad1d8267/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] /Users/angel.vargas/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/b93c07953dfa4331210faf58ad1d8267/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] /Users/angel.vargas/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/90a00631d8002f255d8b61ca9aabed78/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] /Users/angel.vargas/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/90a00631d8002f255d8b61ca9aabed78/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/angel.vargas/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/ebb78713c528d58ab9ee1decbc2280df/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/angel.vargas/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/ebb78713c528d58ab9ee1decbc2280df/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.dagger:dagger-android-support:2.17] /Users/angel.vargas/.gradle/caches/transforms-1/files-1.1/dagger-android-support-2.17.aar/0dc2caa0b0bd27bc8227bb87e8e34897/AndroidManifest.xml:20:5-44
+MERGED from [com.google.dagger:dagger-android-support:2.17] /Users/angel.vargas/.gradle/caches/transforms-1/files-1.1/dagger-android-support-2.17.aar/0dc2caa0b0bd27bc8227bb87e8e34897/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/angel.vargas/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/f81610f83cad2246523e18f12e1766ea/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/angel.vargas/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/f81610f83cad2246523e18f12e1766ea/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /Users/angel.vargas/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/65591301a6a53b5cbd44f0769b2463f3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /Users/angel.vargas/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/65591301a6a53b5cbd44f0769b2463f3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/angel.vargas/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/cad96f526bfeb84d3b52e96e2bc6bffb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/angel.vargas/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/cad96f526bfeb84d3b52e96e2bc6bffb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/angel.vargas/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/5c8df545f4f36d63ccdb25529127def6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/angel.vargas/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/5c8df545f4f36d63ccdb25529127def6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /Users/angel.vargas/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/da22f6fcafe13d49cdabe15f8d4f516d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /Users/angel.vargas/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/da22f6fcafe13d49cdabe15f8d4f516d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/angel.vargas/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/42db2a00e4ef26c4548c1a505671ea69/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/angel.vargas/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/42db2a00e4ef26c4548c1a505671ea69/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/angel.vargas/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/65d43c14e0c0f041a247b76d1786f51a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/angel.vargas/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/65d43c14e0c0f041a247b76d1786f51a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/angel.vargas/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/559f335685f0c7a822807056a41fadf3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/angel.vargas/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/559f335685f0c7a822807056a41fadf3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/angel.vargas/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/ec99e5b950c988f1b7ae08f3f2a560a8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/angel.vargas/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/ec99e5b950c988f1b7ae08f3f2a560a8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/angel.vargas/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/3d0735556187c360a204bdd6f6d6621d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/angel.vargas/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/3d0735556187c360a204bdd6f6d6621d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/angel.vargas/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/7045d14d4526f69369777d820c18ffbf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/angel.vargas/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/7045d14d4526f69369777d820c18ffbf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/angel.vargas/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/68e52274cdc0ed76ce317b9b8f35955d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/angel.vargas/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/68e52274cdc0ed76ce317b9b8f35955d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/angel.vargas/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/eb4abb4b1ee01d42f131edfc16312749/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/angel.vargas/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/eb4abb4b1ee01d42f131edfc16312749/AndroidManifest.xml:20:5-44
+MERGED from [com.google.dagger:dagger-android:2.17] /Users/angel.vargas/.gradle/caches/transforms-1/files-1.1/dagger-android-2.17.aar/1399c5e96b5e9ee57f23f409bdcb13a5/AndroidManifest.xml:20:5-44
+MERGED from [com.google.dagger:dagger-android:2.17] /Users/angel.vargas/.gradle/caches/transforms-1/files-1.1/dagger-android-2.17.aar/1399c5e96b5e9ee57f23f409bdcb13a5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/angel.vargas/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/7954c595036e1323d9bf705e7fd1caf9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/angel.vargas/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/7954c595036e1323d9bf705e7fd1caf9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/angel.vargas/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/657fd59fa1fda0c241292024ddd40ff0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/angel.vargas/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/657fd59fa1fda0c241292024ddd40ff0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/angel.vargas/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/70d864b821c662fa18a6c183558957b6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/angel.vargas/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/70d864b821c662fa18a6c183558957b6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/angel.vargas/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/e579fec9e091b2991898bd04a05950a5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/angel.vargas/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/e579fec9e091b2991898bd04a05950a5/AndroidManifest.xml:20:5-44
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.0] /Users/angel.vargas/.gradle/caches/transforms-1/files-1.1/rxandroid-2.1.0.aar/9f4de014558b866d9dcd0fb61036b155/AndroidManifest.xml:18:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.0] /Users/angel.vargas/.gradle/caches/transforms-1/files-1.1/rxandroid-2.1.0.aar/9f4de014558b866d9dcd0fb61036b155/AndroidManifest.xml:18:5-43
+MERGED from [com.android.support.test.espresso:espresso-idling-resource:3.0.2] /Users/angel.vargas/.gradle/caches/transforms-1/files-1.1/espresso-idling-resource-3.0.2.aar/43e6bfc2166b3cf3a2f00be0646d9553/AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support.test.espresso:espresso-idling-resource:3.0.2] /Users/angel.vargas/.gradle/caches/transforms-1/files-1.1/espresso-idling-resource-3.0.2.aar/43e6bfc2166b3cf3a2f00be0646d9553/AndroidManifest.xml:20:5-22:41
+MERGED from [com.getkeepsafe.relinker:relinker:1.2.2] /Users/angel.vargas/.gradle/caches/transforms-1/files-1.1/relinker-1.2.2.aar/dc697c1ca89b09f3ee604b8966ba9ea8/AndroidManifest.xml:7:5-43
+MERGED from [com.getkeepsafe.relinker:relinker:1.2.2] /Users/angel.vargas/.gradle/caches/transforms-1/files-1.1/relinker-1.2.2.aar/dc697c1ca89b09f3ee604b8966ba9ea8/AndroidManifest.xml:7:5-43
+INJECTED from /Users/angel.vargas/Documents/Android_Studio_Projects/My-Resume/app/src/main/AndroidManifest.xml
+INJECTED from /Users/angel.vargas/Documents/Android_Studio_Projects/My-Resume/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/angel.vargas/Documents/Android_Studio_Projects/My-Resume/app/src/main/AndroidManifest.xml
+		ADDED from /Users/angel.vargas/Documents/Android_Studio_Projects/My-Resume/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/angel.vargas/Documents/Android_Studio_Projects/My-Resume/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/angel.vargas/Documents/Android_Studio_Projects/My-Resume/app/src/main/AndroidManifest.xml
+		ADDED from /Users/angel.vargas/Documents/Android_Studio_Projects/My-Resume/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/angel.vargas/Documents/Android_Studio_Projects/My-Resume/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.CAMERA
+ADDED from [io.card:android-sdk:5.5.1] /Users/angel.vargas/.gradle/caches/transforms-1/files-1.1/android-sdk-5.5.1.aar/e46b9e915eb51da30db86c147afa9826/AndroidManifest.xml:9:5-65
+	android:name
+		ADDED from [io.card:android-sdk:5.5.1] /Users/angel.vargas/.gradle/caches/transforms-1/files-1.1/android-sdk-5.5.1.aar/e46b9e915eb51da30db86c147afa9826/AndroidManifest.xml:9:22-62
+uses-permission#android.permission.VIBRATE
+ADDED from [io.card:android-sdk:5.5.1] /Users/angel.vargas/.gradle/caches/transforms-1/files-1.1/android-sdk-5.5.1.aar/e46b9e915eb51da30db86c147afa9826/AndroidManifest.xml:10:5-66
+	android:name
+		ADDED from [io.card:android-sdk:5.5.1] /Users/angel.vargas/.gradle/caches/transforms-1/files-1.1/android-sdk-5.5.1.aar/e46b9e915eb51da30db86c147afa9826/AndroidManifest.xml:10:22-63
+uses-feature#android.hardware.camera
+ADDED from [io.card:android-sdk:5.5.1] /Users/angel.vargas/.gradle/caches/transforms-1/files-1.1/android-sdk-5.5.1.aar/e46b9e915eb51da30db86c147afa9826/AndroidManifest.xml:12:5-14:36
+	android:required
+		ADDED from [io.card:android-sdk:5.5.1] /Users/angel.vargas/.gradle/caches/transforms-1/files-1.1/android-sdk-5.5.1.aar/e46b9e915eb51da30db86c147afa9826/AndroidManifest.xml:14:9-33
+	android:name
+		ADDED from [io.card:android-sdk:5.5.1] /Users/angel.vargas/.gradle/caches/transforms-1/files-1.1/android-sdk-5.5.1.aar/e46b9e915eb51da30db86c147afa9826/AndroidManifest.xml:13:9-47
+uses-feature#android.hardware.camera.autofocus
+ADDED from [io.card:android-sdk:5.5.1] /Users/angel.vargas/.gradle/caches/transforms-1/files-1.1/android-sdk-5.5.1.aar/e46b9e915eb51da30db86c147afa9826/AndroidManifest.xml:15:5-17:36
+	android:required
+		ADDED from [io.card:android-sdk:5.5.1] /Users/angel.vargas/.gradle/caches/transforms-1/files-1.1/android-sdk-5.5.1.aar/e46b9e915eb51da30db86c147afa9826/AndroidManifest.xml:17:9-33
+	android:name
+		ADDED from [io.card:android-sdk:5.5.1] /Users/angel.vargas/.gradle/caches/transforms-1/files-1.1/android-sdk-5.5.1.aar/e46b9e915eb51da30db86c147afa9826/AndroidManifest.xml:16:9-57
+activity#io.card.payment.CardIOActivity
+ADDED from [io.card:android-sdk:5.5.1] /Users/angel.vargas/.gradle/caches/transforms-1/files-1.1/android-sdk-5.5.1.aar/e46b9e915eb51da30db86c147afa9826/AndroidManifest.xml:20:9-22:66
+	android:configChanges
+		ADDED from [io.card:android-sdk:5.5.1] /Users/angel.vargas/.gradle/caches/transforms-1/files-1.1/android-sdk-5.5.1.aar/e46b9e915eb51da30db86c147afa9826/AndroidManifest.xml:22:13-63
+	android:name
+		ADDED from [io.card:android-sdk:5.5.1] /Users/angel.vargas/.gradle/caches/transforms-1/files-1.1/android-sdk-5.5.1.aar/e46b9e915eb51da30db86c147afa9826/AndroidManifest.xml:21:13-58
+activity#io.card.payment.DataEntryActivity
+ADDED from [io.card:android-sdk:5.5.1] /Users/angel.vargas/.gradle/caches/transforms-1/files-1.1/android-sdk-5.5.1.aar/e46b9e915eb51da30db86c147afa9826/AndroidManifest.xml:23:9-70
+	android:name
+		ADDED from [io.card:android-sdk:5.5.1] /Users/angel.vargas/.gradle/caches/transforms-1/files-1.1/android-sdk-5.5.1.aar/e46b9e915eb51da30db86c147afa9826/AndroidManifest.xml:23:19-67
+provider#android.arch.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [android.arch.lifecycle:extensions:1.1.1] /Users/angel.vargas/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/65591301a6a53b5cbd44f0769b2463f3/AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] /Users/angel.vargas/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/65591301a6a53b5cbd44f0769b2463f3/AndroidManifest.xml:25:13-68
+	android:multiprocess
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] /Users/angel.vargas/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/65591301a6a53b5cbd44f0769b2463f3/AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] /Users/angel.vargas/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/65591301a6a53b5cbd44f0769b2463f3/AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] /Users/angel.vargas/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/65591301a6a53b5cbd44f0769b2463f3/AndroidManifest.xml:24:13-83

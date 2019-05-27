@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.data.repository.UtResumeDataRepository" tests="4" skipped="0" failures="0" errors="0" timestamp="2019-05-25T23:35:15" hostname="MX-IT01497" time="0.703">
+  <properties/>
+  <testcase name="testGetInformationSuccessful" classname="com.example.data.repository.UtResumeDataRepository" time="0.694"/>
+  <testcase name="testGetResumeFromFallbackCache" classname="com.example.data.repository.UtResumeDataRepository" time="0.006"/>
+  <testcase name="testGetInformationUnexpectedException" classname="com.example.data.repository.UtResumeDataRepository" time="0.002"/>
+  <testcase name="testGetInformationTimeoutError" classname="com.example.data.repository.UtResumeDataRepository" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

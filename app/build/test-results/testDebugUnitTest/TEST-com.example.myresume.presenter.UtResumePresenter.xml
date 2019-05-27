@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.myresume.presenter.UtResumePresenter" tests="9" skipped="0" failures="0" errors="0" timestamp="2019-05-25T23:35:11" hostname="MX-IT01497" time="1.526">
+  <properties/>
+  <testcase name="testGetResumeInformationWithAnyOtherException" classname="com.example.myresume.presenter.UtResumePresenter" time="1.494"/>
+  <testcase name="testGetResumeInformationWithGenericException" classname="com.example.myresume.presenter.UtResumePresenter" time="0.002"/>
+  <testcase name="testGetResumeInformationWithTimeoutException" classname="com.example.myresume.presenter.UtResumePresenter" time="0.003"/>
+  <testcase name="testGetResumeInformationWithallData" classname="com.example.myresume.presenter.UtResumePresenter" time="0.004"/>
+  <testcase name="testGetResumeInformationWithOnlyWorks" classname="com.example.myresume.presenter.UtResumePresenter" time="0.007"/>
+  <testcase name="testInitView" classname="com.example.myresume.presenter.UtResumePresenter" time="0.003"/>
+  <testcase name="testGetResumeInformationWithOnlyBasics" classname="com.example.myresume.presenter.UtResumePresenter" time="0.003"/>
+  <testcase name="testGetResumeInformationSuccessfulWithNoData" classname="com.example.myresume.presenter.UtResumePresenter" time="0.002"/>
+  <testcase name="testGetResumeInformationWithOnlySkills" classname="com.example.myresume.presenter.UtResumePresenter" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.myresume.domain.interactors.UtGetResumeInformationUseCase" tests="3" skipped="0" failures="0" errors="0" timestamp="2019-05-25T23:35:17" hostname="MX-IT01497" time="0.508">
+  <properties/>
+  <testcase name="testGetResumeInformationSuccessful" classname="com.example.myresume.domain.interactors.UtGetResumeInformationUseCase" time="0.502"/>
+  <testcase name="testGetInformationUnexpectedException" classname="com.example.myresume.domain.interactors.UtGetResumeInformationUseCase" time="0.004"/>
+  <testcase name="testGetInformationTimeoutError" classname="com.example.myresume.domain.interactors.UtGetResumeInformationUseCase" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
